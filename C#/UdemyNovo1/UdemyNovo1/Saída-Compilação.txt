@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: UdemyNovo1, Configuração: Debug Any CPU ------
+1>  UdemyNovo1 -> C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\bin\Debug\UdemyNovo1.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 10:45 AM e levou 00,458 segundos ==========

@@ -1,0 +1,8 @@
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\obj\Debug\UdemyNovo1.csproj.AssemblyReference.cache
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\obj\Debug\UdemyNovo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\obj\Debug\UdemyNovo1.csproj.CoreCompileInputs.cache
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\bin\Debug\UdemyNovo1.exe.config
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\bin\Debug\UdemyNovo1.exe
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\bin\Debug\UdemyNovo1.pdb
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\obj\Debug\UdemyNovo1.exe
+C:\Users\DEV WILLIAN\OneDrive\Documentos\C#\UdemyNovo1\UdemyNovo1\obj\Debug\UdemyNovo1.pdb
